@@ -1,4 +1,4 @@
 # summer-2021-ml-mikolas
 
 
-https://mik-97.github.io/summer-2021-ml-mikolas/ml-yes-no2/index.html
+https://mik-97.github.io/summer-2021-ml-mikolas/public/index.html
