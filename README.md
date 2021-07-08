@@ -13,12 +13,12 @@ https://mik-97.github.io/summer-2021-ml-mikolas/public/index.html
 
 
 
-#sumer 2021
+# Sumer 2021
 
 
 July 28th,thursday
 
-##Steps to reproduce a impulse
+## Steps to create a impulse
 
 
 1. Login to Edgeimpulse.com
